@@ -9,3 +9,4 @@ C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Domain\obj\De
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\refint\Starbucks.Domain.dll
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.pdb
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\ref\Starbucks.Domain.dll
+C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.sourcelink.json
