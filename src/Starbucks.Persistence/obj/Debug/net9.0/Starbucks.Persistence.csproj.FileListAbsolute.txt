@@ -13,3 +13,4 @@ C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Persistence\o
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\refint\Starbucks.Persistence.dll
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\Starbucks.Persistence.pdb
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\ref\Starbucks.Persistence.dll
+C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\Starbucks.Persistence.sourcelink.json

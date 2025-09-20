@@ -36,3 +36,4 @@ C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Api\obj\Debug
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Api\obj\Debug\net9.0\Starbucks.Api.pdb
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Api\obj\Debug\net9.0\Starbucks.Api.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Api\obj\Debug\net9.0\ref\Starbucks.Api.dll
+C:\Users\carlo\OneDrive\Documents\Projects\Starbucks\src\Starbucks.Api\obj\Debug\net9.0\Starbucks.Api.sourcelink.json
