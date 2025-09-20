@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Api\\Starbucks.Api.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Api\\Starbucks.Api.csproj",
       "projectName": "Starbucks.Api",
-      "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Api\\Starbucks.Api.csproj",
+      "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Api\\Starbucks.Api.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Api\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -151,8 +151,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Application\\Starbucks.Application.csproj": {
-              "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Application\\Starbucks.Application.csproj"
+            "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Application\\Starbucks.Application.csproj": {
+              "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Application\\Starbucks.Application.csproj"
             }
           }
         }

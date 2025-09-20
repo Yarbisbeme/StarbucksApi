@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Application\\Starbucks.Application.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Application\\Starbucks.Application.csproj",
       "projectName": "Starbucks.Application",
-      "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Application\\Starbucks.Application.csproj",
+      "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Application\\Starbucks.Application.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Application\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Persistence\\Starbucks.Persistence.csproj": {
-              "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Persistence\\Starbucks.Persistence.csproj"
+            "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Persistence\\Starbucks.Persistence.csproj": {
+              "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Persistence\\Starbucks.Persistence.csproj"
             }
           }
         }

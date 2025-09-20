@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fANtv/xa5lY=",
+  "dgSpecHash": "6CpQzK0IX5s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlo\\OneDrive\\Documents\\Projects\\Starbucks\\src\\Starbucks.Domain\\Starbucks.Domain.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\OneDrive\\Documents\\StarbucksApi\\src\\Starbucks.Domain\\Starbucks.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
